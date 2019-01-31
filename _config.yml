@@ -106,15 +106,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Park Jae Hyoung"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Small Person"
+  location         : "Incheon"
   email            :
   links:
-    - label: "Email"
+    - label: "wogud556.github.io"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      # url: "wogud556.github.io"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
